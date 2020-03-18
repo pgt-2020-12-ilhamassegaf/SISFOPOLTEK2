@@ -1,63 +1,57 @@
-<body class="darklayout">
-    <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-    <!-- Header top area start-->
-    <div class="wrapper-pro">
-        <div class="left-sidebar-pro">
-            <nav id="sidebar">
-                <div class="sidebar-header">
-                    <a href="#"><img src="img/message/1.jpg" alt="" />
-                    </a>
-                    <h3>POLITEKNIK</h3>
-                    <p>GAJAH TUNGGAL</p>
-                    <strong>AP+</strong>
-                </div>
-                <div class="left-custom-menu-adp-wrap">
-                    <ul class="nav navbar-nav left-sidebar-menu-pro">
-                        <li class="nav-item">
-                            <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-home"></i> <span class="mini-dn">Akademik</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
-                            <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="dashboard.html" class="dropdown-item">Rekap Nilai</a>
-                                <a href="dashboard-2.html" class="dropdown-item">Khs</a>
-                            </div>
-                        </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-envelope"></i> <span class="mini-dn">Dosen</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
-                            <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="inbox.html" class="dropdown-item">Konsultasi</a>
-                                <a href="view-mail.html" class="dropdown-item">Evaluasi</a>
-                                <a href="view-mail.html" class="dropdown-item">Input Nilai</a>
+<div class="left-sidebar-pro">
+    <nav id="sidebar">
+        <div class="sidebar-header">
+            <a href="#"><img src="img/message/1.jpg" alt="" />
+            </a>
+            <h3>POLITEKNIK</h3>
+            <p>GAJAH TUNGGAL</p>
+            <strong>AP+</strong>
+        </div>
+        <div class="left-custom-menu-adp-wrap">
+            <ul class="nav navbar-nav left-sidebar-menu-pro">
+                <li class="nav-item">
+                    <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-home"></i> <span class="mini-dn">Akademik</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                    <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
+                        <a href="dashboard.html" class="dropdown-item">Rekap Nilai</a>
+                        <a href="dashboard-2.html" class="dropdown-item">Khs</a>
+                    </div>
+                </li>
+                <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-envelope"></i> <span class="mini-dn">Dosen</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                    <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
+                        <a href="inbox.html" class="dropdown-item">Konsultasi</a>
+                        <a href="view-mail.html" class="dropdown-item">Evaluasi</a>
+                        <a href="view-mail.html" class="dropdown-item">Input Nilai</a>
 
-                            </div>
-                        </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-flask"></i> <span class="mini-dn">Kegiatan Mahasiswa</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
-                            <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="google-map.html" class="dropdown-item">DRUMBAND</a>
-                                <a href="data-maps.html" class="dropdown-item">PADUAN SUARA</a>
-                                <a href="pdf-viewer.html" class="dropdown-item">ROHIS</a>
-                                <a href="x-editable.html" class="dropdown-item">KOPRASI</a>
-                            </div>
-                        </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Setting</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
-                            <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="profile.html" class="dropdown-item">Profile</a>
-                                <a href="contact-client.html" class="dropdown-item">Setting Akun</a>
-                                <a href="contact-client-v.1.html" class="dropdown-item">Tambah Menu</a>
-                                <a href="contact-client-v.1.html" class="dropdown-item">Log-Out</a>
+                    </div>
+                </li>
+                <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-flask"></i> <span class="mini-dn">Kegiatan Mahasiswa</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                    <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
+                        <a href="google-map.html" class="dropdown-item">DRUMBAND</a>
+                        <a href="data-maps.html" class="dropdown-item">PADUAN SUARA</a>
+                        <a href="pdf-viewer.html" class="dropdown-item">ROHIS</a>
+                        <a href="x-editable.html" class="dropdown-item">KOPRASI</a>
+                    </div>
+                </li>
+                <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Setting</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                    <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
+                        <a href="profile.html" class="dropdown-item">Profile</a>
+                        <a href="contact-client.html" class="dropdown-item">Setting Akun</a>
+                        <a href="contact-client-v.1.html" class="dropdown-item">Tambah Menu</a>
+                        <a href="contact-client-v.1.html" class="dropdown-item">Log-Out</a>
 
-                            </div>
-                        </li>
+                    </div>
+                </li>
 
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Info Kampus</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
-                            <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="profile.html" class="dropdown-item">Tentang Kampus</a>
-                                <a href="contact-client.html" class="dropdown-item">Sejarah Kampus</a>
+                <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Info Kampus</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                    <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
+                        <a href="profile.html" class="dropdown-item">Tentang Kampus</a>
+                        <a href="contact-client.html" class="dropdown-item">Sejarah Kampus</a>
 
-                            </div>
-                        </li>
+                    </div>
+                </li>
 
 
-                        <!--<li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-table"></i> <span class="mini-dn">Data Tables</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                <!--<li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-table"></i> <span class="mini-dn">Data Tables</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
                             <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
                                 <a href="static-table.html" class="dropdown-item">Static Table</a>
                                 <a href="data-table.html" class="dropdown-item">Data Table</a>
@@ -96,7 +90,7 @@
                                 <a href="comment.html" class="dropdown-item">Comment</a>
                             </div>
                         </li>-->
-                    </ul>
-                </div>
-            </nav>
+            </ul>
         </div>
+    </nav>
+</div>

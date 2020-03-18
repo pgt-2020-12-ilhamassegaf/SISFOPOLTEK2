@@ -1,3 +1,17 @@
+</div>
+</div>
+<!-- Footer Start-->
+<div class="footer-copyright-area">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="footer-copy-right">
+					<p>Copyright &#169; 2018 Colorlib All rights reserved. Template by <a href="https://colorlib.com">Colorlib</a>.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 <!-- jquery
 		============================================ -->
 <script src="<?php echo base_url() ?>assets/js/vendor/jquery-1.11.3.min.js"></script>
@@ -49,17 +63,17 @@
 <script src="<?php echo base_url() ?>assets/js/flot/dashtwo-flot-active.js"></script>
 <!-- data table JS
 		============================================ -->
-<script src="js/data-table/bootstrap-table.js"></script>
-<script src="js/data-table/tableExport.js"></script>
-<script src="js/data-table/data-table-active.js"></script>
-<script src="js/data-table/bootstrap-table-editable.js"></script>
-<script src="js/data-table/bootstrap-editable.js"></script>
-<script src="js/data-table/bootstrap-table-resizable.js"></script>
-<script src="js/data-table/colResizable-1.5.source.js"></script>
-<script src="js/data-table/bootstrap-table-export.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/bootstrap-table.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/tableExport.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/data-table-active.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/bootstrap-table-editable.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/bootstrap-editable.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/bootstrap-table-resizable.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/colResizable-1.5.source.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/data-table/bootstrap-table-export.js"></script>
 <!-- main JS
 		============================================ -->
-<script src="js/main.js"></script>
+<script src="<?php echo base_url() ?>assetsjs/main.js"></script>
 </body>
 
 </html>
