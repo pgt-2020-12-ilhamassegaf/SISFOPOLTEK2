@@ -9,61 +9,55 @@
                 <div class="sidebar-header">
                     <a href="#"><img src="img/message/1.jpg" alt="" />
                     </a>
-                    <h3>Andrar Son</h3>
-                    <p>Developer</p>
+                    <h3>POLITEKNIK</h3>
+                    <p>GAJAH TUNGGAL</p>
                     <strong>AP+</strong>
                 </div>
                 <div class="left-custom-menu-adp-wrap">
                     <ul class="nav navbar-nav left-sidebar-menu-pro">
                         <li class="nav-item">
-                            <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-home"></i> <span class="mini-dn">Home</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                            <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-home"></i> <span class="mini-dn">Akademik</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
                             <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="dashboard.html" class="dropdown-item">Dashboard v.1</a>
-                                <a href="dashboard-2.html" class="dropdown-item">Dashboard v.2</a>
-                                <a href="analytics.html" class="dropdown-item">Analytics</a>
-                                <a href="widgets.html" class="dropdown-item">Widgets</a>
+                                <a href="dashboard.html" class="dropdown-item">Rekap Nilai</a>
+                                <a href="dashboard-2.html" class="dropdown-item">Khs</a>
                             </div>
                         </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-envelope"></i> <span class="mini-dn">Mailbox</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-envelope"></i> <span class="mini-dn">Dosen</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
                             <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="inbox.html" class="dropdown-item">Inbox</a>
-                                <a href="view-mail.html" class="dropdown-item">View Mail</a>
-                                <a href="compose-mail.html" class="dropdown-item">Compose Mail</a>
+                                <a href="inbox.html" class="dropdown-item">Konsultasi</a>
+                                <a href="view-mail.html" class="dropdown-item">Evaluasi</a>
+                                <a href="view-mail.html" class="dropdown-item">Input Nilai</a>
+
                             </div>
                         </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-flask"></i> <span class="mini-dn">Interface</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-flask"></i> <span class="mini-dn">Kegiatan Mahasiswa</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
                             <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
-                                <a href="google-map.html" class="dropdown-item">Google Map</a>
-                                <a href="data-maps.html" class="dropdown-item">Data Maps</a>
-                                <a href="pdf-viewer.html" class="dropdown-item">Pdf Viewer</a>
-                                <a href="x-editable.html" class="dropdown-item">X-Editable</a>
-                                <a href="code-editor.html" class="dropdown-item">Code Editor</a>
-                                <a href="tree-view.html" class="dropdown-item">Tree View</a>
-                                <a href="preloader.html" class="dropdown-item">Preloader</a>
-                                <a href="images-cropper.html" class="dropdown-item">Images Cropper</a>
+                                <a href="google-map.html" class="dropdown-item">DRUMBAND</a>
+                                <a href="data-maps.html" class="dropdown-item">PADUAN SUARA</a>
+                                <a href="pdf-viewer.html" class="dropdown-item">ROHIS</a>
+                                <a href="x-editable.html" class="dropdown-item">KOPRASI</a>
                             </div>
                         </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Miscellaneous</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Setting</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
                             <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
                                 <a href="profile.html" class="dropdown-item">Profile</a>
-                                <a href="contact-client.html" class="dropdown-item">Contact Client</a>
-                                <a href="contact-client-v.1.html" class="dropdown-item">Contact Client v.1</a>
-                                <a href="project-list.html" class="dropdown-item">Project List</a>
-                                <a href="project-details.html" class="dropdown-item">Project Details</a>
+                                <a href="contact-client.html" class="dropdown-item">Setting Akun</a>
+                                <a href="contact-client-v.1.html" class="dropdown-item">Tambah Menu</a>
+                                <a href="contact-client-v.1.html" class="dropdown-item">Log-Out</a>
+
                             </div>
                         </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-bar-chart-o"></i> <span class="mini-dn">Charts</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
-                            <div role="menu" class="dropdown-menu left-menu-dropdown chart-left-menu-std animated flipInX">
-                                <a href="bar-charts.html" class="dropdown-item">Bar Charts</a>
-                                <a href="line-charts.html" class="dropdown-item">Line Charts</a>
-                                <a href="area-charts.html" class="dropdown-item">Area Charts</a>
-                                <a href="rounded-chart.html" class="dropdown-item">Rounded Charts</a>
-                                <a href="c3.html" class="dropdown-item">C3 Charts</a>
-                                <a href="sparkline.html" class="dropdown-item">Sparkline Charts</a>
-                                <a href="peity.html" class="dropdown-item">Peity Charts</a>
+
+                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-pie-chart"></i> <span class="mini-dn">Info Kampus</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+                            <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
+                                <a href="profile.html" class="dropdown-item">Tentang Kampus</a>
+                                <a href="contact-client.html" class="dropdown-item">Sejarah Kampus</a>
+
                             </div>
                         </li>
-                        <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-table"></i> <span class="mini-dn">Data Tables</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
+
+
+                        <!--<li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa big-icon fa-table"></i> <span class="mini-dn">Data Tables</span> <span class="indicator-right-menu mini-dn"><i class="fa indicator-mn fa-angle-left"></i></span></a>
                             <div role="menu" class="dropdown-menu left-menu-dropdown animated flipInX">
                                 <a href="static-table.html" class="dropdown-item">Static Table</a>
                                 <a href="data-table.html" class="dropdown-item">Data Table</a>
@@ -101,7 +95,7 @@
                                 <a href="order.html" class="dropdown-item">Order</a>
                                 <a href="comment.html" class="dropdown-item">Comment</a>
                             </div>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
             </nav>
